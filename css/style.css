@@ -1,0 +1,41 @@
+/*-------- TYPO -------*/
+
+
+
+/*-------- /TYPO -------*/
+
+.ms-header-bg {
+    background-color: #2c3e50;
+}
+.ms-h6 {
+    color: white;
+}
+.ms-h4 {
+    color: #333333;
+    text-align: center;
+}
+.ms-h1 {
+    color: white;
+    text-align: center;
+}
+.ms-hero-bg {
+    background-color: #1abc9c;
+}
+.portfolio img {
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+}
+.about .ms-h4 {
+    color: white;
+    text-align: center;
+}
+.about .ms-section-bg {
+    background-color: #1abc9c;
+}
+.contact-me .col-8 {
+    border-bottom: 1px solid #cccccc;
+}
+.contact-me .ms-h4 {
+    text-align: center;
+}
