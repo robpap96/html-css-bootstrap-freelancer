@@ -39,3 +39,31 @@
 .contact-me .ms-h4 {
     text-align: center;
 }
+.ms-footer-top {
+    color: white;
+    background-color: #3a546d;
+}
+.ms-footer-bottom {
+    background-color: #2c3e50;
+    color: white;
+}
+footer h3 {
+    text-align: center;
+}
+footer h5 {
+    text-align: center;
+}
+.ms-footer-top .col-1 {
+    text-align: center;
+}
+.ms-nav-bar {
+    displa
+}
+.list-style-none {
+    list-style: none;
+}
+ul {
+    color: white;
+    width: 50%;
+}
+.ms-white
