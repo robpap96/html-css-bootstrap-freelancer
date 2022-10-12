@@ -91,7 +91,15 @@
 .contact-me .col-8:not(.form-floating, :last-child) {
     border-bottom: 1px solid #cccccc;
 }
-
+.contact-me .star {
+    text-align: center;
+    width: 2.5rem;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -125%);
+}
 .contact-me .ms-h4 {
     text-align: center;
 }
